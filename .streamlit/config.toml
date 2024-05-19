@@ -4,4 +4,4 @@ port = "8501"
 enableCORS = false
 
 [browser]
-serverAddress = "https://maplocator.streamlit.app/"
+serverAddress = "http://localhost"
